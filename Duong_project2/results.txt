@@ -1,0 +1,4 @@
+1|Chocolate_Charlie|50|31|Toxic Taffy,Venomous Vortex,Bubblegum Blast
+2|JellyBean_Jane|0|74|Crimson Crystal
+3|Caramel_Carl|21|45|Fearsome Fudge,Crimson Crystal
+4|Toffee_Todd|0|19|Toxic Taffy,Ruby Rapture,Lucky Licorice
