@@ -1,4 +1,0 @@
-Toffee_Todd|35|100|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Ruby Rapture,Lucky Licorice
-JellyBean_Jane|110|30|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal
-Chocolate_Charlie|60|85|Toxic Taffy,Venomous Vortex,Mystic Marshmallow,Sparkling Sapphire
-Caramel_Carl|72|73|Breezy Butterscotch,Fearsome Fudge,Crimson Crystal,Caramel Comet

@@ -1,2 +1,0 @@
-p1|Caramel_Carl|0|43|Fearsome Fudge,Caramel Comet
-p2|JellyBean_Jane|0|72|Lucky Licorice,Fearsome Fudge,Crimson Crystal,Lucky Licorice,Fearsome Fudge
